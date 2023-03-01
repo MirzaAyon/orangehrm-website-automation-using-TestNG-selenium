@@ -34,3 +34,14 @@ https://opensource-demo.orangehrmlive.com/
 - Clone this project
 - Goto terminal and give the command of  ```gradle clean test```
 - Allure reporting  commands: ```allure generate allure-results --clean -o allure-report``` and ```allure serve allure-results```
+
+### Allure report screenshots:
+![334039326_1214379395873219_2230216209726739646_n](https://user-images.githubusercontent.com/68238652/222172978-c2c61217-50fb-46fd-bb16-fed782283af0.png)
+![334465098_596534729004092_7765380339442460219_n](https://user-images.githubusercontent.com/68238652/222173567-50beb483-5f49-4234-9d38-1251baa72d2d.png)
+![334466237_218052593944262_3308727144411942175_n](https://user-images.githubusercontent.com/68238652/222173712-3d231211-bb65-42a8-bd9d-2bc1d83f1472.png)
+
+### Projects implementation full video:
+
+https://user-images.githubusercontent.com/68238652/222173898-793b835e-073d-4b22-bdf3-6243e4ae0628.mp4
+
+
